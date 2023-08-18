@@ -1,4 +1,4 @@
-import random as rad;
+import random as rad; #the random module because obvious reasons lol
 
 def check_upper(): #checks for value validity
     while True:
