@@ -44,7 +44,7 @@ def chance_count(): #gives a chance count if lucky then max chances if unlucky t
     if (o==5):
         print("UNLUCKY LOL")
     elif (o==15):
-        print("LUCKY BIT-")
+        print("THE LUCKY ONE")
     return o
 
 
