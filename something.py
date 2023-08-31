@@ -61,7 +61,7 @@ def game():
             break
         else:
             print("not right")
-            print(f"guesses left {count-1}");print('\n')
+            print(f"guesses left: {count-1}");print('\n')
             count-=1
     else: #when count hits zero this executes
         print(f"Number was: {rnd}");print('\n')
